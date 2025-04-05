@@ -20,15 +20,19 @@ Just press F7/F8 to reenabe it.
 
 ### Preview
 
+Title Before / After
 ![title_before](./img/title_before.png)
 ![title_after](./img/title_after.png)
 
+UI Before / After
 ![ui_before](./img/ui_before.png)
 ![ui_after](./img/ui_after.png)
 
+Menu Before / After
 ![menu_before](./img/menu_before.png)
 ![menu_after](./img/menu_after.png)
 
+Map Before / After
 ![map_before](./img/map_before.png)
 ![map_after](./img/map_after.png)
 
