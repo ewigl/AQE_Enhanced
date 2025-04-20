@@ -14,9 +14,7 @@
 
 #### Known Issue
 
-Mod will stop working while "Back to Main Title".
-
-Just press F7/F8 to reenabe it.
+Windowed Mode flickering while "Back to Main Title".
 
 ### Preview
 
@@ -43,3 +41,9 @@ I know nothing about game programming, C#, .NET or Unity Engine. I made this for
 This is just a Proof of concept that you can run AQE on higher UI resolution without changing game mechanics.
 
 Use code from [BonedMod](https://f95zone.to/threads/alien-quest-eve-v1-01-grimhelm.6016/post-3630740).
+
+### About AQE
+
+- Press F1 to unlock all gellery scenes.
+- Game configs saved to registry `HKEY_CURRENT_USER\SOFTWARE\GRIMHELM\AQEv1.0`
+- Game saves saved to game root directory.
